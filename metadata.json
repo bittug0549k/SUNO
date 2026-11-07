@@ -1,0 +1,6 @@
+{
+  "name": "SUNO",
+  "description": "High-performance offline music player with real-time blur now playing, themes, and equalizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

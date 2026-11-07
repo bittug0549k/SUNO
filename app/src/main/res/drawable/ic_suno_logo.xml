@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Center circle container -->
+    <path
+        android:pathData="M48,48m-44,0a44,44 0 1,1 88,0a44,44 0 1,1 -88,0"
+        android:fillColor="#151722" />
+        
+    <!-- Left soundwave bars -->
+    <path
+        android:pathData="M22,40 L22,56"
+        android:strokeWidth="3"
+        android:strokeColor="#FF5E7E"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M28,34 L28,62"
+        android:strokeWidth="3"
+        android:strokeColor="#FF9F43"
+        android:strokeLineCap="round" />
+
+    <!-- Modern S letter intertwining with musical note -->
+    <path
+        android:pathData="M60,33 C60,27 54,23 46,23 C36,23 33,28 33,34 C33,42 60,40 60,52 C60,63 48,67 40,67 C34,67 30,64 30,61"
+        android:strokeWidth="5.5"
+        android:strokeColor="#00E5FF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Note stem and flag -->
+    <path
+        android:pathData="M60,50 L60,25 C60,22 64,21 70,21"
+        android:strokeWidth="4.5"
+        android:strokeColor="#FFD166"
+        android:strokeLineCap="round" />
+
+    <!-- Note head at bottom -->
+    <path
+        android:pathData="M40,67m-5,0a5,4.5 30 1,0 10,0a5,4.5 30 1,0 -10,0"
+        android:fillColor="#00E5FF" />
+
+    <!-- Right soundwave bars -->
+    <path
+        android:pathData="M76,35 L76,61"
+        android:strokeWidth="3"
+        android:strokeColor="#06D6A0"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M82,42 L82,54"
+        android:strokeWidth="3"
+        android:strokeColor="#A259FF"
+        android:strokeLineCap="round" />
+</vector>
